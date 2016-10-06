@@ -33,6 +33,10 @@ var/
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+<<<<<<< HEAD
+=======
+
+>>>>>>> 88e4774c42b0f7b0362197df97bab2d575325688
 # Unit test / coverage reports
 htmlcov/
 .tox/
